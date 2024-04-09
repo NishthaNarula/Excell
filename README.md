@@ -1,4 +1,4 @@
-**Arora Store Annual Sales Analysis Report**
+##**Arora Store Annual Sales Analysis Report**
 
 **Introduction:**
 This report provides a comprehensive analysis of the annual sales data for Arora Store, focusing on key insights derived from data cleaning, processing, analysis, and the creation of an active dashboard in Excel. The analysis aims to identify trends and patterns in customer behavior, regional sales distribution, and channel contributions to guide targeted marketing strategies.
